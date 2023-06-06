@@ -29,7 +29,7 @@ struct ContentView: View {
                 
                 ForEach(0..<3) { number in
                     Button {
-                        
+                        flagTapped(number)
                     } label: {
                         Image(countries[number])
                             .renderingMode(.original)
