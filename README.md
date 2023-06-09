@@ -1,1 +1,2 @@
-## Guess The Flag iOS game made with SwiftUI
+## Guess The Flag iOS game made with SwiftUI.
+
